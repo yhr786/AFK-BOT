@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yusufdagoat.aternos.me",
+    "ip": "yusufdagoat.aternos.me:29412",
     "port": 29412,
     "version": "",
     "try-creative": false
